@@ -11,6 +11,7 @@ Prerequisites
 Clone the Repository
 
 git clone https://github.com/punithxpm/devops-shell-toolkit.git
+
 cd devops-shell-toolkit/scripts
 
 How to Run Scripts
