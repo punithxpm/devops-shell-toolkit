@@ -10,13 +10,9 @@ Prerequisites
 
 Clone the Repository
 
+```bash
 git clone https://github.com/punithxpm/devops-shell-toolkit.git
 cd devops-shell-toolkit/scripts
-
-How to Run Scripts
-
-Step 1: Give execute permission
 chmod +x *.sh
-
-Step 2: Run any script
 ./system_status.sh
+```
